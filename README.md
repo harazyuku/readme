@@ -53,7 +53,7 @@ building scalable systems and automations
 
 ### ⚡ TETRIS SYSTEM
 <a href="https://harazyuku.github.io/YOUR_REPO/tetris/">
-   <img src="https://img.shields.io/badge/START-TETRIS-00f5ff?style=for-the-badge&logo=github" />
+   [▶ Play Tetris](https://harazyuku.github.io/teto/)
 </a>
 
 ---
