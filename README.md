@@ -1,83 +1,81 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0b0f14,100:111827&height=140&section=header&text=~/dev/terminal&fontSize=30&fontColor=00ff9f" />
+# ✦ ikehara.dev ✦
+
+### building cloud systems • dev tools • agentic ai
+
+---
+
+[![Typing](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00F5FF&center=true&vCenter=true&repeat=true&width=500&lines=Cloud+Engineer;DevOps+Builder;SaaS+Architect;AI+System+Tinkerer)](https://git.io/typing-svg)
+
+---
+
+[![GitHub](https://img.shields.io/badge/GitHub-ffffff?style=for-the-badge&logo=github&logoColor=black)](https://github.com/YOUR_NAME)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-ff4fd8?style=for-the-badge&logo=vercel&logoColor=white)](https://your-site.com)
+[![Email](https://img.shields.io/badge/Email-00f5ff?style=for-the-badge&logo=gmail&logoColor=black)](mailto:your@mail.com)
 
 </div>
 
 ---
 
-## $ whoami
+## ✦ ABOUT ME
 
-ikehara_dev
+cloud / backend / devops engineer  
+building scalable systems and automations  
 
----
-
-## $ cat about.log
-
-> building software quietly  
-> prefers systems over decoration  
-> currently focused on web + backend architecture  
-> learning by breaking and rebuilding  
+- ☁️ AWS / GCP / Kubernetes
+- ⚙️ CI/CD automation & infra design
+- 🤖 agentic AI workflows
+- 🚀 SaaS product engineering
 
 ---
 
-## $ ls stack/
+## ✦ TECH STACK
 
-frontend/  
-backend/  
-infra/  
-tools/  
+**CLOUD**
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
 
----
+**DEVOPS**
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
 
-## $ cat frontend/
-
-- Next.js  
-- React  
-- TypeScript  
-
----
-
-## $ cat backend/
-
-- Node.js  
-- Laravel  
+**LANGUAGES**
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
 ---
 
-## $ cat infra/
+## ✦ LIVE PROJECTS
 
-- Docker  
-- GitHub Actions  
-- Vercel  
-
----
-
-## $ run tetris
-
-<div align="center">
-
-<a href="https://YOUR_NAME.github.io/YOUR_REPO/tetris/">
-  <img src="https://raw.githubusercontent.com/YOUR_NAME/YOUR_REPO/main/tetris-preview.gif" width="320" />
+### ⚡ TETRIS SYSTEM
+<a href="https://harazyuku.github.io/YOUR_REPO/tetris/">
+  <img src="https://raw.githubusercontent.com/YOUR_NAME/YOUR_REPO/main/tetris-preview.gif" width="360" />
 </a>
 
-</div>
+---
+
+### ⚡ CLOUD DASHBOARD
+<a href="https://github.com/harazyuku">
+  <img src="https://github-readme-stats.vercel.app/api?username=harazyuku&show_icons=true&theme=radical&hide_border=true" />
+</a>
 
 ---
 
-## $ status
-
-> system: stable  
-> learning: ongoing  
-> bugs: expected  
-> future: undefined  
+### ⚡ LANGUAGE MATRIX
+<a href="https://github.com/harazyuku">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harazyuku&layout=compact&theme=radical&hide_border=true" />
+</a>
 
 ---
 
-## $ exit
+## ✦ STATUS
 
-<div align="center">
-
-[github](https://github.com/YOUR_NAME) · [mail](mailto:your@mail.com)
-
-</div>
+```text
+system: online
+focus: building
+noise: disabled
+future: loading...
